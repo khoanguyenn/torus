@@ -5,6 +5,10 @@
     "target": "es6",
     "rootDir": "./",
     "outDir": "./build",
-    "strict": true
+    "alwaysStrict": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "forceConsistentCasingInFileNames": true
   }
 }
