@@ -6,5 +6,5 @@ An educational application for university
 
 Database: MySQL  
 Backend: NodeJs, ExpressJs, TypeScript  
-Frontend: ReactJs, TypeScript
+Frontend: ReactJs, TypeScript  
 Mobile: Flutter  
