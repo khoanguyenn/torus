@@ -522,3 +522,4 @@ hs_err_pid*
 
 /.idea/.gitignore
 **/package-lock.json
+/server/build
