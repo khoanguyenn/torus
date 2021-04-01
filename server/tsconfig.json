@@ -1,10 +1,10 @@
 {
   "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./build",
     "module": "commonjs",
     "esModuleInterop": true,
     "target": "es6",
-    "rootDir": "./",
-    "outDir": "./build",
     "alwaysStrict": true,
     "strict": true,
     "noImplicitAny": true,

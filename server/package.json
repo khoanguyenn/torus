@@ -7,7 +7,7 @@
   "main": "src/server.ts",
   "scripts": {
     "build": "tsc",
-    "start": "node src/server.ts",
+    "start": "ts-node src/server.ts",
     "dev": "nodemon src/server.ts"
   },
   "dependencies": {
